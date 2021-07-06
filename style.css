@@ -114,3 +114,6 @@ footer h2{
 footer p{
     color: white;
 }
+body{
+    margin: 0;
+}

@@ -3,7 +3,7 @@
 }
 .width{
     width: 50%;
-    margin: 4%;
+    margin: 5%;
 }
 .img{
     width: 90%;
@@ -39,8 +39,39 @@ button{
 }
 #text{
     text-align: center;
+    padding: 4%;
 }
 #rafsan{
     text-decoration: none;
+}
+
+
+.half2{
+    display: flex;
+}
+.width2{
+    width: 30%;
+    margin: 5% 3%;
+    text-align: justify;
+    text-align: center;
+    box-shadow: 10px 10px 40px gray;
+    padding: 30px 15px;
+    border-radius: 25px;
+}
+.width2 img{
+    width: 90%;
+    border-radius: 25px;
+}
+.width3{
+    width: 30%;
+    margin: 5% 3%;
+    text-align: center;
+}
+#half3{
+    display: flex;
+    margin: 2% 15%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 25px;
+
 }
 

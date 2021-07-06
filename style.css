@@ -117,3 +117,35 @@ footer p{
 body{
     margin: 0;
 }
+.width4{
+    width: 20%;
+    margin: 3%;
+    box-shadow: 10px 10px 40px gray;
+    padding: 25px 10px;
+    text-align: center;
+    border-radius: 25px;
+}
+.width4 p{
+    text-align: justify;
+    color: rgb(52, 65, 70);
+}
+.width4 h3{
+    font-size: 30px;
+    color: rgb(68, 78, 82);
+}
+.width4 img{
+    height: 270px;
+    width: 90%;
+    border-radius: 25px;
+}
+.half4{
+    display: flex;
+}
+#rs{
+    text-align: center;
+    color: rgb(31, 73, 87);
+}
+.socal{
+    text-decoration: none;
+    color: rgb(130, 130, 238);
+}

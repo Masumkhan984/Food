@@ -30,12 +30,13 @@ button{
     font-size: 20px;
 }
 .padding{
-    padding-top: 100px;
+    padding-top: 100px;padding-left: 50px;
 }
 #bg{
     background-image: url(photos/Frame\ 57.jpg);
     background-repeat: no-repeat;
     background-size: 100%;;
+    margin: 0%;
 }
 #text{
     text-align: center;
@@ -74,4 +75,26 @@ button{
     border-radius: 25px;
 
 }
-
+.half h1{
+    color: rgb(100, 94, 94);
+}
+.half h2{
+    color: rgb(119, 113, 113);
+}
+.half p{
+    color: rgb(129, 122, 122);
+}
+#text h2{
+    color: rgb(83, 60, 60);
+}
+#text p{
+    color: rgb(112, 103, 103);
+}
+#half3 h2{
+    font-size: 50px;
+    font-weight: 900;
+    color: rgb(99, 69, 69);
+}
+#half3 p{
+    color: gray;
+}

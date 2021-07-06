@@ -35,5 +35,12 @@ button{
 #bg{
     background-image: url(photos/Frame\ 57.jpg);
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: 100%;;
 }
+#text{
+    text-align: center;
+}
+#rafsan{
+    text-decoration: none;
+}
+
